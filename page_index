@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dr. Norman Vincent Peale</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="jumbotron" style="background-color:#e6e6fa">
+
+      <h1 style="text-align:center"><b>Dr. Norman Vincent Peale</b></h1>
+      <h3 style="text-align:center">The man who taught a billion people how to think positively</h3>
+
+      <figure>
+        <img src="http://cdn.loc.gov/service/pnp/cph/3c20000/3c26000/3c26400/3c26496v.jpg" class="img-thumbnail" alt="man">
+
+        <figcaption class="img-thumbnail">1966 - Dr. Norman Vincent Peale</figcaption>
+
+      </figure>
+      <article style="padding:20px">
+        <h2>Norman Vincent Peale's Time Line:</h2>
+        <ul>
+          <li><b>1898 </b>- born in Bowersville, Ohio</li>
+          <li><b>1922 </b>- ordained as a Methodist minister</li>
+          <li><b>1935 </b>- started a radio program, "The art of Living", which lasted for 54 years</li>
+          <li><b>1945 </b>- with his wife Ruth Stafford Peale and Raymond Thornburg, a Pawling, New York businessman, founded <i>Guideposts magazine </i>a non-denominational forum for celebrities and ordinary people to relate inspirational stories</li>
+          <li><b>1947 </b>- co-founded (along with educator Kenneth Beebe) The Horatio Alger Association. This organization aims to recognize and honor Americans who have been successful in spite of difficult circumstances</li>
+          <li><b>1952 </b>- The book <i>The Power of Positive Thinking</i> is published</li>
+          <li><b>1995 </b>- dies at the age of 95</li>
+        </ul>
+      </article>
+
+      <h4><q>When obstacles or difficulties arise, the positive thinker takes them as creatives opportunities. He welcomes the challenge of a though problem and looks for ways to turn it to advantage.</q></h4>
+
+      <h6 align="center">Norman Vincent Peale (Have a Great Day - 1986 p.2)</h6>
+
+      <h4><q>Optmism is a philosophy based on the belief that basically life is good, that, in the long run, the good in life overbalances the evil.</q></h4>
+
+      <h6 align="center">(Have a Great Day - 1986 p.14)</h6>
+
+    </div>
+  </div>    
+</body>
+  
+<footer>
+  <div class="container">
+    <div class="jumbotron" style="background-color:#e6e6fa">
+      <h3 style="text-align:center">If you are an open-minded person, I think you should check it out and judge by youself on <a href="https://en.wikipedia.org/wiki/Norman_Vincent_Peale">Wikipedia entry.</a></h3>
+    </div>
+  </div>
+  <h6 style="text-align:center;">Written and coded by <a href="https://www.freecodecamp.com/marcosfreyervinnorsk">Marcos Freire.</a></h6>
+</footer>
+
+</html>
